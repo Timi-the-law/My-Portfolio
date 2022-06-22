@@ -301,7 +301,7 @@
                         </div>
                     </div>
                     <div class="right-contact">
-                        <form action="mailto:ajaniaturu@gmail" class="contact-form">
+                        <form action="mailto:ajaniaturu@gmail" class="contact-form" method="post" enctype="text/plain">
                             <div class="input-control i-c-2">
                                 <input type="text" required placeholder="YOUR NAME">
                                 <input type="email" required placeholder="YOUR EMAIL">
